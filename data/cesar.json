@@ -1,0 +1,70 @@
+{ 
+    "chiffrements": [
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Ferhat",
+        "cle": "2",
+        "answer": "DQPLQWTLGUWKUHGTJCV"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Said",
+        "cle": "7",
+        "answer": "IVUQVBYQLZBPZZHPK"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Xiru",
+        "cle": "11",
+        "answer": "MZYUZFCUPDFTDITCF"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Qichen",
+        "cle": "21",
+        "answer": "WJIEJPMEZNPDNLDXCZI"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "aujourd'hui il fait beau",
+        "cle": "6",
+        "answer": "GAPUAXJNAOORLGOZHKGA"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "cette phrase est chiffree",
+        "cle": "9",
+        "answer": "LNCCNYQAJBNNBCLQROOANN"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "bonjour a tous et a toutes",
+        "cle": "16",
+        "answer": "REDZEKHQJEKIUJQJEKJUI"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "LYXXOBOZYXCO",
+        "cle": "10",
+        "answer": "BONNEREPONSE"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "MOLGBQFKQBDOXQFLK",
+        "cle": "23",
+        "answer": "PROJETINTEGRATION"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "KCWBYHMUCXZYLBUNRCLO",
+        "cle": "20",
+        "answer": "REDZEKHQJEKIUJQJEKJUI"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "PUVSSERZRAGQRPUVSSERZRAG",
+        "cle": "13",
+        "answer": "CHIFFREMENTDECHIFFREMENT"
+      }
+    ]
+  }

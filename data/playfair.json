@@ -1,0 +1,70 @@
+{
+    "chiffrements": [
+    {
+      "type" :"Chiffrer",
+      "texte": "Bonjour je suis Ferhat",
+      "cle": "JVDUVNDFHDE",
+      "answer": "HRJVQVMNFWDKJCBPEBSV"
+    },
+    {
+      "type" :"Chiffrer",
+      "texte": "Bonjour je suis Said",
+      "cle": "UVYVCNRFGDR",
+      "answer": "IKAPKCABLVCBTQXFOI"
+    },
+    {
+      "type" :"Chiffrer",
+      "texte": "Bonjour je suis Xiru",
+      "cle": "OVJNFURFHD",
+      "answer": "KUFNUBHVBWABTYCABU"
+    },
+    {
+      "type" :"Chiffrer",
+      "texte": "Bonjour je suis Qichen",
+      "cle": "RTYVGCBFGT",
+      "answer": "AMOINWVEHQYNUSEFIHLY"
+    },
+    {
+      "type" :"Chiffrer",
+      "texte": "aujourd'hui il fait beau",
+      "cle": "VBDYVCGX",
+      "answer": "ETOTWSVJSKJHGEJSYXET"
+    },
+    {
+      "type" :"Chiffrer",
+      "texte": "cette phrase est chiffree",
+      "cle": "NVCYEBFGDY",
+      "answer": "YNUSXVMJXLXNNXUVIJATAOAENV"
+    },
+    {
+      "type" :"Chiffrer",
+      "texte": "bonjour a tous et a toutes",
+      "cle": "PHVNGHTYRN",
+      "answer": "IXPMLXABBJWUCRBYLXRCQH"
+    },
+    {
+      "type" :"Déchiffrer",
+      "texte": "YRRUVHVJKFOUCV",
+      "cle": "OVNFRYGD",
+      "answer": "BONNEREPONSE"
+    },
+    {
+      "type" :"Déchiffrer",
+      "texte": "UVUESD",
+      "cle": "DNVHDRGFZ",
+      "answer": "OUTILS"
+    },
+    {
+      "type" :"Déchiffrer",
+      "texte": "HEKAGPDLTQIT",
+      "cle": "AZFBGTTFCHE",
+      "answer": "CHIFFREMENTA"
+    },
+    {
+      "type" :"Déchiffrer",
+      "texte": "NUCNTSRYEUQI",
+      "cle": "ARBVGRYTF",
+      "answer": "INFORMATIQUE"
+    }
+  ]
+}

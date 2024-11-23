@@ -1,0 +1,60 @@
+{
+    "chiffrements": [
+      {
+        "type": "césar",
+        "texte_clair": "PROJET INTEGRATION",
+        "texte_chiffre": "RTQLGVKPVGITCVKQP",
+        "answer": "2"
+      },
+      {
+        "type": "vigenere",
+        "texte_clair": "AULIEUDESEDIRIGERVERSLESBATIMENTSILSERISQUAENFINAGRAVIRLETERRILSURLEQUELBRULAIENTLESTROISFEUXDEHOUILLEDANSDESCORBEILLESDEFONTEPOURECLAIRERETRECHAUFFERLABESOGNELESOUVRIERSDELACOUPEATERREAVAIENTDUTRAVAILLERTARDONSORTAITENCORELESDEBRISINUTILES",
+        "texte_chiffre": "BFLVGVOEFGETRVIFCVRTTWEFDBEIZGOESVNTPRVURFARPGTNNISLVVTMPTRTSTLFWSWEDWFWBEWMLIRPUWEFVSZIFHFFXQGIZUVNMPDNPTOEFEPCBRKMWEFFFQOAVFAOHTFNLNKSPRRVSPCUCVQFRTMLBRUPRNRNFDOHXSTEEUEPLNEPFPRCUPREGBGAVGOEDHVSLVNKMWEEVBCDBPTZRGCJEEAEPCEYGTOEOTJDIAWUTLRU",
+        "answer": "BLANC"
+      },
+      {
+        "type": "affine",
+        "texte_clair": "LE CRYPTOGRAPHE JEAN HENRIKELLERMAN AVEC LE CODE MILITAIREDE FRANCOIS ANTOINE BOSSUT",
+        "texte_chiffre": "AD OMYPUMAWIVIYV NUUL QAKG GYV IAUO AWHZYMUFUGIQYG TUQCYMAGIGIQYL HUXMNYQUULG AYVOZYCYY",
+        "answer": "C"
+      },
+      {
+        "type": "transposition",
+        "texte_clair": "L'ennemi attaque demain",
+        "texte_chiffre": "mineneL 'qkatta  eaidma",
+        "answer": "B"
+      },
+      {
+        "type": "substitution",
+        "texte_clair": "Il était une fois un petit navire",
+        "texte_chiffre": "At pèsyt hgy heyc yn nyxog hawnid",
+        "answer": "D"
+      },
+      {
+        "type": "césar",
+        "texte_clair": "LE SOLEIL BRILLE DANS LE CIEL BLEU",
+        "texte_chiffre": "VOCYVOSVLBSVVONKXCVOMSOVLVOE",
+        "answer": "10"
+      },
+      {
+        "type": "césar",
+        "texte_clair": "IL FAIT BEAU TEMPS POUR SORTIR SE PROMENER",
+        "texte_chiffre": "GAPUAXJNAOKYZATKHKRRKPUAXTKKJKZK",
+        "answer": "12"
+      },
+      {
+        "type": "césar",
+        "texte_clair": "LA VIE EST FAITE DE PETITS BONHEURS QUOTIDIENS",
+        "texte_chiffre": "SHCPLLZAMHPALKLWLAPAZIVUOLBYZXBVAPKPLUZ",
+        "answer": "7"
+      },
+      {
+        "type": "césar",
+        "texte_clair": "CHIFFREMENT DE CESAR",
+        "texte_chiffre": "GLMJJVIQIRXHIGIWEV",
+        "answer": "4"
+      }
+
+    ]
+  }
+  

@@ -1,0 +1,46 @@
+{
+    "chiffrements": [
+      {
+        "texte_clair": "Bonjour je suis Ferhat",
+        "cle": "C",
+        "answer": "ErqmrXUmHVXLVIHUkDW"
+      },
+      {
+        "texte_clair": "Salut ça va ?",
+        "cle": "(7,2)",
+        "answer": "Zhszdzmgwzm"
+      },
+      {
+        "texte_clair": "J'aime les licornes",
+        "cle": "EXCALIBUR",
+        "answer": "Kolpsypidkfa"
+      },
+      {
+        "texte_clair": "le chat dort sur le tapis",
+        "cle": "B",
+        "answer": "KXCDWSNOLQPHQLKDRODN"
+      },
+      {
+        "texte_clair": "aujourd'hui il fait beau",
+        "cle": "(7,15)",
+        "answer": "HLKMROJQNXXBNNZDJSJSZIY"
+      },
+      {
+        "texte_clair": "cette phrase est chiffree",
+        "cle": "JAVA",
+        "answer": "XTYYEEOIHSOGFVEUXKZJW"
+      },
+      {
+        "texte_clair": "l'alphabet contient 26 lettres",
+        "cle": "(3,8)",
+        "answer": "ODOGITRJWNMXZOGDHRWXMAI"
+      },
+      {
+        "texte_clair": "bonjour a tous et a toutes",
+        "cle": "PYTHON",
+        "answer": "XBDSDNNRMKCBAMKRDTAHS"
+      }
+    ]
+  }
+ 
+    

@@ -1,0 +1,234 @@
+body {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.logo>img {
+    opacity: 0.8;
+}
+
+.logo>img:hover {
+    opacity: 1;
+}
+
+
+.titre {
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+    color: rgb(77, 165, 219);
+}
+
+.navbar {
+    background-color: rgb(225, 232, 239) !important;
+}
+
+
+.navbar-nav>a {
+    font-weight: bold;
+
+}
+
+.navbar-nav>a:hover {
+    color: rgb(17, 121, 218);
+}
+
+
+#lienUniv {
+    color: white;
+}
+
+footer {
+    background-color:  lightblue;;
+    color: white;
+    margin-top: auto;
+}
+
+
+li {
+    font-size: large;
+}
+
+
+.error {
+    color: red;
+}
+
+.mon-bg {
+    background-color: rgb(225, 232, 239) !important;
+}
+
+.sub-menu {
+    display: none;
+}
+
+.nav-item {
+    position: relative;
+}
+
+.nav-item:hover .sub-menu {
+    display: block;
+}
+
+.sub-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    padding: 10px;
+    font-size: 14px;
+    list-style: none;
+    border-radius: 10px;
+}
+
+.sub-menu li {
+    border-bottom: 1px solid #000;
+}
+
+.sub-menu li a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+html {
+    overflow-x: hidden;
+}
+
+
+.cle-number>li {
+    width: 25px;
+    height: 30px;
+    background-color: rgb(52, 48, 48);
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0px 5px 5px 0px;
+    cursor: pointer;
+}
+
+.cle-number>li[selected-key] {
+    background-color: rgb(255, 255, 255);
+    color: rgb(69, 118, 192);
+    border: 1px solid rgb(52, 48, 48);
+}
+
+
+.question-cle {
+    text-decoration: none;
+    color: grey;
+    font-size: medium;
+}
+
+
+.question-cle:hover {
+    text-decoration: none;
+    color: rgb(43, 90, 199);
+    font-size: medium;
+}
+
+
+
+
+/* cours.php */
+.chapter-nav {
+    background-color: #f2f2f2;
+    border-right: 1px solid #ccc;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    padding: 20px;
+    position: fixed;
+    top: 80px;
+    left: 0;
+    bottom: 80px;
+    width: 200px;
+}
+
+.chapter-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.chapter-nav ul li {
+    margin-bottom: 10px;
+}
+
+.chapter-nav a {
+    color: #333;
+    text-decoration: none;
+}
+
+.chapter-nav a:hover {
+    color: #000;
+}
+
+/* Styles pour le contenu principal */
+main {
+    box-sizing: border-box;
+    padding: 20px;
+    flex-grow: 1;
+    margin-left: 200px;
+    /* Ajout de cette propriété pour décaler le contenu principal */
+}
+
+.image-graphique {
+    display: block;
+    margin: auto;
+}
+
+.image-vigenere {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.image-carre {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+
+
+/* bar chart */
+
+.chart-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .chart-container {
+        width: 90%;
+        max-width: 1200px;
+    }
+}
+
+
+
+#cle-decryptage>span[selected-letter] {
+    color: #ffc107;
+    font-weight: bold;
+}
+
+#cle-decryptage>span {
+
+    cursor: pointer;
+}
+
+
+#cle-decryptage>span:hover {
+    color: #ffc107;
+}
+
+.indice-coinci {
+    background-color: rgba(54 255 0) !important;
+    color:#333 !important;
+}

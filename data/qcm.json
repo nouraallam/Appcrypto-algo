@@ -1,0 +1,312 @@
+{
+    "questions": [
+        {
+            "question": "Qu'est-ce que la cryptographie ?",
+            "options": [
+                "La science de la communication sécurisée",
+                "L'étude des plantes",
+                "L'art de la sculpture"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Quel est le principe de base de la cryptographie symétrique ?",
+            "options": [
+                "L'utilisation d'une clé unique pour chiffrer et déchiffrer des messages",
+                "L'utilisation de deux clés différentes pour chiffrer et déchiffrer des messages",
+                "L'utilisation d'un algorithme complexe pour chiffrer des messages"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qu'une attaque par force brute ?",
+            "options": [
+                "Une méthode d'attaque qui consiste à essayer toutes les clés possibles jusqu'à trouver la bonne",
+                "Une méthode d'attaque qui consiste à infecter un système avec un virus",
+                "Une méthode d'attaque qui consiste à espionner les communications"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Qu'est-ce que la cryptographie asymétrique ?",
+            "options": [
+                "L'utilisation de deux clés différentes pour chiffrer et déchiffrer des messages",
+                "L'utilisation d'une clé unique pour chiffrer et déchiffrer des messages",
+                "L'utilisation d'un algorithme complexe pour chiffrer des messages"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qu'une signature électronique ?",
+            "options": [
+                "Une méthode permettant de chiffrer un document électronique",
+                "Une méthode permettant de déchiffrer un document électronique",
+                "Une méthode permettant de garantir l'authenticité et l'intégrité d'un document électronique"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Quel est le chiffrement le plus utilisé aujourd'hui ?",
+            "options": [
+                "AES",
+                "DES",
+                "RSA",
+                "Blowfish",
+                "Triple DES"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Quel est l'avantage de la cryptographie asymétrique par rapport à la cryptographie symétrique ?",
+            "options": [
+                "Elle permet l'échange de clés de manière sécurisée",
+                "Elle est plus rapide",
+                "Elle est plus simple à implémenter"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qu'un certificat numérique ?",
+            "options": [
+
+                "Un fichier de configuration réseau",
+                "Un document électronique garantissant l'authenticité et l'intégrité d'un site web",
+                "Une clé secrète utilisée pour chiffrer des messages"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce que le hachage cryptographique ?",
+            "options": [
+                "Une méthode d'attaque qui consiste à deviner une clé",
+                "Une méthode de chiffrement qui utilise une seule clé",
+                "Une fonction qui prend en entrée des données de taille variable et produit une empreinte numérique fixe"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Qu'est-ce que l'authentification à deux facteurs ?",
+            "options": [
+                "Une méthode d'authentification qui utilise deux clés différentes",
+                "Une méthode d'authentification qui utilise deux types d'informations pour vérifier l'identité de l'utilisateur",
+                "Une méthode d'authentification qui utilise une clé secrète"
+            ],
+            "answer": 0
+        },
+
+        
+        {
+            "question": "Quel est le principe de base du chiffrement de César ?",
+            "options": [
+                "Remplacer chaque lettre du message par la lettre située 3 positions plus loin dans l'alphabet",
+                "Inverser l'ordre des lettres dans le message",
+                "Remplacer chaque lettre du message par la lettre située 1 position plus loin dans l'alphabet"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Quel est le nombre total de décalages possibles dans le chiffrement de César avec un alphabet de 26 lettres ?",
+            "options": [
+                "23",
+                "25",
+                "26"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Quel est le principal problème de sécurité du chiffrement de César ?",
+            "options": [
+            "Il est facilement décryptable par attaque par force brute",
+            "Il utilise un alphabet trop petit",
+            "Il est trop lent"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Quel est un autre nom communément utilisé pour le chiffrement de César ?",
+            "options": [
+            "Chiffre de Vigenère",
+            "Chiffre de substitution",
+            "Chiffre de César inversé"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qui se passe si on applique le chiffrement de César deux fois de suite avec un décalage de 3 ?",
+            "options": [
+            "Le message est chiffré deux fois et devient illisible",
+            "Le message redevient le message d'origine",
+            "Le message est chiffré avec un décalage de 6"
+            ],
+            "answer": 0
+        },
+
+
+        {
+            "question": "Quel est le principe de base du chiffrement de Vigenère ?",
+            "options": [
+            "Remplacer chaque lettre du message par la lettre située 3 positions plus loin dans l'alphabet",
+            "Inverser l'ordre des lettres dans le message",
+            "Utiliser une clé pour effectuer un décalage variable sur chaque lettre du message"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Quelle est la principale différence entre le chiffrement de Vigenère et le chiffrement de César ?",
+            "options": [
+            "Le chiffrement de Vigenère utilise une clé de chiffrement",
+            "Le chiffrement de Vigenère utilise un alphabet différent",
+            "Le chiffrement de Vigenère est plus lent"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Qu'est-ce qu'une clé de chiffrement dans le chiffrement de Vigenère ?",
+            "options": [
+            "Une série de lettres du message d'origine",
+            "Une série de lettres qui détermine le décalage à appliquer sur chaque lettre du message",
+            "Une série de lettres qui détermine le nombre de fois que le chiffrement est appliqué"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Quelle est la principale force du chiffrement de Vigenère ?",
+            "options": [
+            "Il est plus rapide que d'autres méthodes de chiffrement",
+            "Il est résistant aux attaques par force brute",
+            "Il utilise un alphabet plus large"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qui se passe si on utilise une clé de chiffrement de longueur différente du message dans le chiffrement de Vigenère ?",
+            "options": [
+            "Le chiffrement ne peut pas être effectué",
+            "La clé de chiffrement est répétée pour correspondre à la longueur du message",
+            "La clé de chiffrement est ignorée"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qui rend le chiffrement de Vigenère plus sécurisé que le chiffrement de César ?",
+            "options": [
+            "Il utilise une clé de chiffrement",
+            "Il utilise un alphabet plus large",
+            "Il est plus rapide"
+            ],
+            "answer": 0
+        },
+
+
+        {
+            "question": "Quel est le principe de base du chiffrement de Playfair ?",
+            "options": [
+            "Remplacer chaque lettre du message par la lettre située 3 positions plus loin dans l'alphabet",
+            "Diviser le message en paires de lettres et les remplacer selon une grille de substitution",
+            "Inverser l'ordre des lettres dans le message"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Quelle est la particularité de la grille de substitution utilisée dans le chiffrement de Playfair ?",
+            "options": [
+            "Elle contient toutes les lettres de l'alphabet dans un ordre aléatoire",
+            "Elle contient uniquement les lettres de l'alphabet en majuscules",
+            "Elle contient les lettres de l'alphabet, sauf la lettre 'J'"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Qu'est-ce qui se passe si une paire de lettres du message original est identique dans le chiffrement de Playfair ?",
+            "options": [
+            "Les deux lettres sont remplacées par la même lettre dans le chiffrement",
+            "Les deux lettres sont ignorées dans le chiffrement",
+            "Les deux lettres sont remplacées par des lettres différentes dans le chiffrement"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Quelle est la principale faiblesse du chiffrement de Playfair ?",
+            "options": [
+            "Il est vulnérable aux attaques par force brute",
+            "Il est lent à chiffrer et déchiffrer",
+            "Il utilise une grille de substitution trop complexe"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qui rend le chiffrement de Playfair plus sécurisé que le chiffrement de César ou de Vigenère ?",
+            "options": [
+            "Il utilise une grille de substitution",
+            "Il utilise un alphabet plus large",
+            "Il est plus rapide"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Qu'est-ce qui se passe si la longueur du message original n'est pas un nombre pair dans le chiffrement de Playfair ?",
+            "options": [
+            "Le chiffrement ne peut pas être effectué",
+            "Le message est complété avec des lettres fictives pour obtenir un nombre pair de lettres",
+            "Le chiffrement est effectué sur les lettres impaires du message seulement"
+            ],
+            "answer": 1
+        },
+
+
+        {
+            "question": "Quel est le principe de base du chiffrement d'Affine ?",
+            "options": [
+            "Remplacer chaque lettre du message par la lettre située 3 positions plus loin dans l'alphabet",
+            "Appliquer une transformation mathématique sur chaque lettre du message",
+            "Inverser l'ordre des lettres dans le message"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Quelle est la transformation mathématique utilisée dans le chiffrement d'Affine ?",
+            "options": [
+            "Additionner un nombre fixe à la position de la lettre dans l'alphabet",
+            "Multiplier la position de la lettre dans l'alphabet par un nombre fixe",
+            "Appliquer une fonction trigonométrique à la position de la lettre dans l'alphabet"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Qu'est-ce qui se passe si le nombre fixe de la transformation d'Affine est égal à 1 ?",
+            "options": [
+            "Le chiffrement est équivalent au chiffrement de César",
+            "Le chiffrement ne peut pas être effectué",
+            "Le chiffrement est équivalent au chiffrement de Vigenère"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Quelle est la condition pour que le chiffrement d'Affine soit réversible (déchiffrable) ?",
+            "options": [
+            "Le nombre fixe de la transformation doit être un nombre premier relatif à la taille de l'alphabet",
+            "Le nombre fixe de la transformation doit être un nombre pair",
+            "Le nombre fixe de la transformation doit être égal à 0"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Qu'est-ce qui rend le chiffrement d'Affine plus sécurisé que le chiffrement de César ?",
+            "options": [
+            "Il utilise une transformation mathématique",
+            "Il utilise un alphabet plus large",
+            "Il est plus rapide"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "Qu'est-ce qui se passe si la lettre du message original n'est pas présente dans l'alphabet utilisé dans le chiffrement d'Affine ?",
+            "options": [
+            "La lettre est ignorée dans le chiffrement",
+            "Le chiffrement ne peut pas être effectué",
+            "La lettre est remplacée par une lettre fictive"
+            ],
+            "answer": 1
+        }
+    ]
+}

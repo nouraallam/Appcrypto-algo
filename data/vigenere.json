@@ -1,0 +1,70 @@
+{
+    "chiffrements": [
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Ferhat",
+        "cle": "bonjour",
+        "answer": "DQPLQWTLGUWKUHGTJCV"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Said",
+        "cle": "desole",
+        "answer": "ESFXZYUNWGFMVWSWO"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Xiru",
+        "cle": "chat",
+        "answer": "DVNCQBRCGZUBUEIKW"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "Bonjour je suis Qichen",
+        "cle": "renard",
+        "answer": "SSAJFXINRSLLJUVCYHE"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "aujourd'hui il fait beau",
+        "cle": "cle",
+        "answer": "CFNQFVFSYKTPHLMVMICF"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "cette phrase est chiffree",
+        "cle": "chiffre",
+        "answer": "ELBYJGLTHAJJJXEOQKKIIG"
+      },
+      {
+        "type" :"Chiffrer",
+        "texte": "bonjour a tous et a toutes",
+        "cle": "bonjour",
+        "answer": "CCASCOIBHBDGYKBHBDHYJ"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "EICSIMXEHNKKPKWXR",
+        "cle": "projet",
+        "answer": "BONNEREPONSE"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "DLHRPL",
+        "cle": "projet",
+        "answer": "OUTILS"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "FLKMNWJDIZX",
+        "cle": "dechiffrement",
+        "answer": "CHIFFREMENT"
+      },
+      {
+        "type" :"Déchiffrer",
+        "texte": "NVHVZQRYQSBM",
+        "cle": "fichier",
+        "answer": "INFORMATIQUE"
+      }
+    ]
+  }
